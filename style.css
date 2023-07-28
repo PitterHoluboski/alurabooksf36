@@ -19,3 +19,18 @@ h1{
     background-color:var(--cor-de-fundo);
     color:var(--branco);
   }
+  @import url("styles/header.css");
+  ;root {
+   --cor-de-fundo:#EBECEE;
+   --branco:#FFFFFF;
+
+
+  }
+
+body {
+   background-color:var(--cor-de-fundo);
+   color:var(--branco)
+}
+.container_imagem{
+   padding 1em;
+}
